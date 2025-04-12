@@ -10,6 +10,7 @@
 		"cf-typegen": "wrangler types"
 	},
 	"devDependencies": {
+		"@cloudflare/playwright": "^0.0.9",
 		"@cloudflare/vitest-pool-workers": "^0.7.5",
 		"@cloudflare/workers-types": "^4.20250412.0",
 		"typescript": "^5.5.2",
